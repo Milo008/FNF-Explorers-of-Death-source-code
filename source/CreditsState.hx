@@ -25,7 +25,7 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
 		['Explorers of Death'],
-		['Milo008',		'melmao',		'Mod Creator',					'https://twitter.com/_Milo008_',	0xFFC30085],
+		['Milo008',		'melmao',		'Mod Creator',					'https://twitter.com/_Milo008__',	0xFFC30085],
 		['sparklingdemon',			'sparks',		'Revisor of PMD: Explorers of Death',	'https://sparklingdemon.tumblr.com/',       0xFF61536A],
 		['star-byte',			'starbyte',		'Writer of PMD: Explorers of Death',	'https://www.deviantart.com/star-byte',       0xFF4494E6],
 		[''],
