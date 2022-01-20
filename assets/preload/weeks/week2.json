@@ -1,0 +1,30 @@
+{
+	"storyName": "I AM MYRA!",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Soft Reset",
+			"myradark",
+			[
+				0,
+				0,
+				33
+			]
+		]
+	],
+	"weekName": "I Am Myra"
+}

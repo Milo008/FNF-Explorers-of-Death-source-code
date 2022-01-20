@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-210
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "myra idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-113
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "myra right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-220
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "myra left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-90
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "myra up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-210
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "myra down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/myra",
+	"position": [
+		-580,
+		-411
+	],
+	"healthicon": "myra",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		255
+	],
+	"camera_position": [
+		350,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

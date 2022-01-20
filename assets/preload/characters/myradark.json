@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-210
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "myra idle"
+		},
+		{
+			"offsets": [
+				-160,
+				-113
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "myra right"
+		},
+		{
+			"offsets": [
+				-65,
+				-220
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "myra left"
+		},
+		{
+			"offsets": [
+				-55,
+				-90
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "myra up"
+		},
+		{
+			"offsets": [
+				-160,
+				-210
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "myra down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/myradark",
+	"position": [
+		-580,
+		-411
+	],
+	"healthicon": "myradark",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		350,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
